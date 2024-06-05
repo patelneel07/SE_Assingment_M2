@@ -1,0 +1,20 @@
+<html>
+<head>
+    <title><b><u>Top 10 IT Companies</b></u></title>
+</head>
+<body bgcolor="blue">
+    <h1 color=" " face="Berlin Sans FB Demi">Top 10 IT Companies</h1>
+    <font size="5" color=" " face="Constantia">
+        Microsoft<br>
+        Apple<br>
+        Amazon<br>
+        Alphabet (Google)<br>
+        Facebook<br>
+        Alibaba<br>
+        Intel<br>
+        IBM<br>
+        Tencent<br>
+        Samsung Electronics<br>
+    
+</body>
+</html>
